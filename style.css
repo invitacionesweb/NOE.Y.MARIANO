@@ -161,7 +161,7 @@ header {
 }
 .lovestory .text {
     padding: 20px 20px;
-    font-size: 1em;
+    font-size: 1.1em;
     max-width: 500PX;
     margin: auto;
     background-color: rgba(246, 243, 239, 0.7); /* Convierte el color hexadecimal a valores numéricos y ajusta la transparencia */
@@ -200,13 +200,13 @@ header {
 }
 .ubicacion-bloque p {
     padding:10px 40px 30px 40px;
-    font-size: 1em;
+    font-size: 1.1em;
     max-width: 400px;
     margin: auto;
 }
 .bloquedos p {
     padding:0px 40px 0px 40px;
-    font-size: 1em;
+    font-size: 1.1em;
     max-width: 400px;
     margin: auto;
 }
@@ -252,8 +252,8 @@ header {
 }
 .dresscode p {
     padding:6px 40px 6px 40px;
-    font-size: 1em;
-    margin: 0 0 10px 0;
+    font-size: 1.1em;
+    margin: 0 0 0px 0;
 }
 .palette {
     width: 100%;
@@ -263,27 +263,6 @@ header {
     gap: 20px;
    
 } 
-.palette div { 
-    
-    width: 56px;
-    height: 56px;
-    border-radius: 50%;
-}
-.palette .color1 { 
-    background-color:#CBABA3;
-}
-.palette .color2 { 
-    background-color: #8E757F;
-}
-.palette .color3 { 
-    background-color: #956961;
-}
-.palette .color4 { 
-    background-color:#B27251;
-}
-.palette .color5 { 
-    background-color: #A56C39;
-}
 .caja {
     background-image: url(./figuras/caja2.png);
     background-position: center;
@@ -307,6 +286,7 @@ header {
     max-width: 500px;
     text-align: center;
     margin: auto;
+    font-size: 1.1em;
     max-width: 400px;
 }
 .tres { 
@@ -321,6 +301,7 @@ header {
     max-width: 500px;
     text-align: center;
     margin: auto;
+    font-size: 1.1em;
 }
 
 .rsvpbotones {
