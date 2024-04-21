@@ -194,7 +194,7 @@ header {
 .ubicacion-bloque h2 {
     margin: 0;
     padding: 0;
-    font-size: 1.4em;
+    font-size: 1.3em;
     font-weight: bolder;
    
 }
@@ -310,7 +310,12 @@ header {
     gap: 20px;
 
 }
-
+.quote {
+    background-color: var(--color-principal);
+    color: var(--color-terciario);
+    font-size: 1.3rem;
+    text-align: center;
+}
 
 footer {
     width: 100%;
@@ -350,12 +355,12 @@ footer img {
 }
 
 .end {
-    background-image: url(./img-editables/end.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+
     width: 100%;
-    height:260px;
+    max-width: 230px;
+    height:auto;
+    padding: auto;
+    margin: auto;
     display: flex;
     justify-content: center;
     
@@ -365,7 +370,7 @@ footer img {
 .end-names img{
     width: 100vw;
     height: auto;
-    max-width: 600px;
+    max-width: 200px;
     padding: 0;
     margin: 0;
    
