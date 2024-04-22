@@ -140,10 +140,11 @@ header {
      text-align: center;
      text-decoration: none;
  }
+
  .namephones {
-   display: none;
-    
-}
+    display: none;
+     
+ }
  .icon {
      width: 60px;
      margin-bottom: 10px;
@@ -401,6 +402,12 @@ footer img {
 
     }
 
+.namephones {
+    display: block;
+    width: 100vw;
+    height: 100%;
+}
+
     .novios .desk { 
     display: none;
     }
@@ -447,10 +454,6 @@ footer img {
     width: 100%;
     height: 90vh;
     background-image: url(./img-editables/TIMING.png);
-    
-}
-.namephones {
-    width: 100%;
     
 }
     .dos { 
