@@ -184,7 +184,7 @@ header {
     background-color: var(--color-principal);
 }
 .fecha-fecha {
-    width: 100vw;
+    
     display: flex;
     flex-direction: center;
     align-items: center;
